@@ -12,6 +12,9 @@ CS Student | AI & Data Science Enthusiast | Aspiring Software Engineer <br><br>�
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AsifQamar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifQamar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AsifQamar&limit=5&theme=react&combine_all_yearly_contributions=true)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AsifQamar&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
