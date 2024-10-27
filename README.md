@@ -13,6 +13,83 @@ CS Student | Open Source Contributor | Aspiring Software Engineer <br><br>🎓 B
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+## :zap: Open Source Programs & Achievements
+
+<div align="center">
+  <table>
+    <tr align="center">
+      <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
+        <a href="">
+          <img src="gssoc.png" alt="GirlScript Summer of Code" width="120" />
+          <br>
+          <strong>GirlScript Summer of Code Extend</strong>
+        </a>
+        <br>
+        <span style="font-size: 14px; color: #555555;">🏅 Ranking 21st</span>
+        <br>
+        <span style="font-size: 12px; color: #777777;">
+	  Out of 32000+ participants<br>
+          PRs Merged: 54 <br>
+          Total Badges: 7<br>
+          Total Score: 1630<br>
+        </span>
+      </td>
+      <td style="padding: 15px;" valign="top" width="50%">
+        <table>
+          <tr align="center">
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="Explorer Badge.png" alt="Explorer Badge" width="80" />
+              <br>
+              <strong>Explorer Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="Adventurer Badge.png" alt="Adventurer Badge" width="80" />
+              <br>
+              <strong>Adventurer Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="Champion Badge.png" alt="" width="80" />
+              <br>
+              <strong>Champion Badge</strong>
+            </td>
+            <td style="padding: 10px;" width="100">
+              <img src="Trailblazer Badge.png" alt="Trailblazer Badge" width="80" />
+              <br>
+              <strong>Trailblazer Badge</strong>
+            </td>
+          </tr>
+          <tr align="center">
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="Summit Seeker Badge.png" alt="Summit Seeker Badge" width="80" />
+              <br>
+              <strong>Summit Seeker Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="Innovator Bage.png" alt="Innovator Badge" width="80" />
+              <br>
+              <strong>Innovator Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="Conqueror%20Badge.png" alt="Conqueror Badge" width="80" />
+              <br>
+              <strong>Conqueror Badge</strong>
+            </td>
+            <td style="padding: 10px;" width="100">
+              <img src="Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
+              <br>
+              <strong>API Student Expert</strong>
+              <br>
+              <span style="font-size: 12px; color: #777777;">Postman</span>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AsifQamar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AsifQamar&theme=dark&hide_border=false)<br/>
