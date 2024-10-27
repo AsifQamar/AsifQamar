@@ -19,7 +19,7 @@ CS Student | Open Source Contributor | Aspiring Software Engineer <br><br>🎓 B
   <table>
     <tr align="center">
       <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
-        <a href="">
+        <a href="https://gssoc.girlscript.tech/leaderboard">
           <img src="gssoc.png" alt="GirlScript Summer of Code" width="120" />
           <br>
           <strong>GirlScript Summer of Code Extend</strong>
