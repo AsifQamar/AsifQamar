@@ -29,9 +29,9 @@
         <br>
         <span style="font-size: 12px; color: #777777;">
 	  Out of 32000+ participants<br>
-          PRs Merged: 54 <br>
+          PRs Merged: 69 <br>
           Total Badges: 7<br>
-          Total Score: 1630<br>
+          Total Score: 2160<br>
         </span>
       </td>
       <td style="padding: 15px;" valign="top" width="50%">
@@ -70,9 +70,9 @@
               <strong>Innovator Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="Conqueror%20Badge.png" alt="Conqueror Badge" width="80" />
+              <img src=".png" alt="web3Hack Badge" width="80" />
               <br>
-              <strong>Conqueror Badge</strong>
+              <strong>Web3Hack Badge</strong>
             </td>
             <td style="padding: 10px;" width="100">
               <img src="Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
