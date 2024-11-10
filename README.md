@@ -30,7 +30,7 @@
         <span style="font-size: 12px; color: #777777;">
 	  Out of 32000+ participants<br>
           PRs Merged: 69 <br>
-          Total Badges: 7<br>
+          Total Badges: 8<br>
           Total Score: 2160<br>
         </span>
       </td>
