@@ -1,5 +1,5 @@
 # 💫 About Me:
-1st Year CS Student | Open Source Contributor | Aspiring Software Engineer <br><br>🎓 B.Tech in Computer Science at Asansol Engineering College.<br><br>💡 Skills: C, HTML, CSS, Python, Java, DSA. Experienced in video editing with 20k+ YouTube subscribers.<br><br>🔍 Interests: Data Science, AI, Full-Stack Development, Game Development, DevOps.<br>
+CS Student | Open Source Contributor | Aspiring Software Engineer <br><br>🎓 B.Tech in Computer Science at Asansol Engineering College.<br><br>💡 Skills: C, HTML, CSS, Python, Java, DSA. Experienced in video editing with 20k+ YouTube subscribers.<br><br>🔍 Interests: Data Science, AI, Full-Stack Development, Game Development, DevOps.<br>
 
 
 ## 🌐 Socials:
