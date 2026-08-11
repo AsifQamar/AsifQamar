@@ -90,11 +90,13 @@ CS Student | Open Source Contributor | Aspiring Software Engineer <br><br>🎓 B
 </div>
 
 <br>
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AsifQamar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
+<img src="https://github-readme-stats.shion.dev/api?username=AsifQamar&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
 </div>
 
 ### ✍️ Random Dev Quote
