@@ -2,7 +2,7 @@
 CS Student | Open Source Contributor | Aspiring Software Engineer <br><br>🎓 B.Tech in Computer Science at Asansol Engineering College.<br><br>💡 Skills: C, HTML, CSS, Python, Java, DSA. Experienced in video editing with 20k+ YouTube subscribers.<br><br>🔍 Interests: Backend Development, Cloud, DevOps and AI/ML.<br>
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/k7ng2D6UeD) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asif-qamar-071709306) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gamedotexe?si=pe5P4nQmUaxk39GZ) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/k7ng2D6UeD) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asif-qamar-071709306) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gamedotexe?si=pe5P4nQmUaxk39GZ) 
 
 <h2 align="left">🧑‍💻𝗖𝗼𝗱𝗶𝗻𝗴 𝗣𝗿𝗼𝗳𝗶𝗹𝗲:</h2>
 <p align="left">
@@ -93,7 +93,7 @@ CS Student | Open Source Contributor | Aspiring Software Engineer <br><br>🎓 B
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AsifQamar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AsifQamar&theme=dark" alt="GitHub Streak" /></a><br/>
+![](https://streak-stats.demolab.com/?user=AsifQamar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AsifQamar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
