@@ -92,11 +92,8 @@ CS Student | Open Source Contributor | Aspiring Software Engineer <br><br>🎓 B
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AsifQamar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=1)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AsifQamar&theme=dark&hide_border=false&v=1)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=AsifQamar&theme=dark&hide_border=false)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifQamar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=1)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AsifQamar&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
